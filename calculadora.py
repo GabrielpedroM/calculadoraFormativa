@@ -11,3 +11,9 @@ def divisao(a, b):
     if b == 0:
         return "Erro ao dividir por zero"
     return a / b
+
+print("Calculadora")
+print("1 - Soma")
+print("2 - Subtração")
+print("3 - Multiplicação")
+print("4 - Divisão")
