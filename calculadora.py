@@ -13,7 +13,7 @@ def divisao(a, b):
     return a / b
 
 print("Calculadora")
-print("1 - Soma")
+print("1 - Somar")
 print("2 - Subtração")
 print("3 - Multiplicação")
 print("4 - Divisão")
